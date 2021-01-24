@@ -1,6 +1,12 @@
 # data_products
 
-Data Intensive Applcations - Data Products Map ! 
+
+- Books (Beautiful data, Data Intensive Applcations, Advanced Analytics in Spark, Fast Forward Labs, Domains) 
+- Newsletter 
+- AI research groups websites 
+- Hacker News 
+- Twitter 
+
 
 
 
@@ -65,8 +71,6 @@ Analysing Political Data
 Astronomy data - Image Processing on Mars 
 Photography meta-data analysis 
 Social Media dat
-
-
 
 
 ---------------------------------------
