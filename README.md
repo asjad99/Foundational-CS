@@ -14,13 +14,14 @@
 Information Retreival
 ----------------------------------
 
+Semantic Code Search by Github: https://towardsdatascience.com/semantic-code-search-3cd6d244a39c, https://github.com/github/codesearchnet
 
 
 
 ----------------------------------
 Beautiful data
 ----------------------------------
-
+https://learning.oreilly.com/library/view/beautiful-data/9780596801656/ 
 
 
 ----------------------------------
@@ -73,13 +74,27 @@ Photography meta-data analysis
 Social Media dat
 
 
+
 ---------------------------------------
-10 cool applications of ML for Software Engineering 
+Healthcare
 ---------------------------------------
+
+- https://www.nature.com/articles/s41591-020-01197-2
+- https://www.coursera.org/specializations/ai-healthcare
+- https://executive-education-online.mit.edu/presentations/lp/mit-ai-in-healthcare-online-short-course/? 
+- Medical data: https://github.com/beamandrew/medical-data
+- readings: https://mlhc19mit.github.io/
+
+---------------------------------------
+Software Engineering 
+---------------------------------------
+
+Big list: https://ml4code.github.io/tags.html
+
+
 
 1. The Case for Learned Index Structures 
 2. https://research.fb.com/wp-content/uploads/2020/09/Machine-Learning-in-Compilers-Past-Present-and-Future.pdf
-3. Semantic Code Search by Github: https://towardsdatascience.com/semantic-code-search-3cd6d244a39c
 4. Automatic Recommendation of Pythonic Idiom Usage - https://youtu.be/vOCQReSvBxA
 5. Using machine learning for code recommendation : https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/
 6. Deep learning to translate between programming languages https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/
