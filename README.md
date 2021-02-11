@@ -84,7 +84,8 @@ Healthcare
 - https://executive-education-online.mit.edu/presentations/lp/mit-ai-in-healthcare-online-short-course/? 
 - Medical data: https://github.com/beamandrew/medical-data
 - readings: https://mlhc19mit.github.io/
-- Deep Learning and Bio: https://github.com/gokceneraslan/awesome-deepbio
+- Deep Learning and Bio: https://github.com/gokceneraslan/awesome-deepbio 
+- Machine learning in genomic medicine: a review of computational problems and data sets. Leung et al. Proceedings of the IEEE, January 2016.
 
 ---------------------------------------
 Software Engineering 
