@@ -84,6 +84,7 @@ Healthcare
 - https://executive-education-online.mit.edu/presentations/lp/mit-ai-in-healthcare-online-short-course/? 
 - Medical data: https://github.com/beamandrew/medical-data
 - readings: https://mlhc19mit.github.io/
+- Deep Learning and Bio: https://github.com/gokceneraslan/awesome-deepbio
 
 ---------------------------------------
 Software Engineering 
