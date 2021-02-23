@@ -107,3 +107,9 @@ a tool that learns to automatically suggest fixes for coding bugs.
 9. Learn to rank: https://medium.com/@nikhilbd/intuitive-explanation-of-learning-to-rank-and-ranknet-lambdarank-and-lambdamart-fe1e17fac418
 https://arxiv.org/pdf/1812.00073.pdf
 
+
+
+- Program Synthesis: 
+    - https://alexpolozov.com/blog/program-synthesis-2018/
+    - https://openreview.net/pdf?id=H1gR5iR5FX
+    - https://homes.cs.washington.edu/~bornholt/post/synthesis-explained.html
