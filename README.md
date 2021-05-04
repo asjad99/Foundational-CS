@@ -47,15 +47,15 @@ Advanced Analytics in Spark
 ----------------------------------
 
 
-Recommending Music and the Audioscrobbler Data Set
-Predicting Forest Cover with Decision Trees
-Anomaly Detection in Network Traffic with K-means Clustering
-Understanding Wikipedia with Latent Semantic Analysis
-Analyzing Co-occurrence Networks with GraphX
-Geospatial and Temporal Data Analysis on the New York City Taxi Trip Data
-Analyzing Genomics Data and the BDG Project
-Analyzing Neuroimaging Data with PySpark and Thunder
-Estimating Financial Risk through Monte Carlo Simulation
+- Recommending Music and the Audioscrobbler Data Set
+- Predicting Forest Cover with Decision Trees
+- Anomaly Detection in Network Traffic with K-means Clustering
+- Understanding Wikipedia with Latent Semantic Analysis
+- Analyzing Co-occurrence Networks with GraphX
+- Geospatial and Temporal Data Analysis on the New York City Taxi Trip Data
+- Analyzing Genomics Data and the BDG Project
+- Analyzing Neuroimaging Data with PySpark and Thunder
+- Estimating Financial Risk through Monte Carlo Simulation
 
 
 
