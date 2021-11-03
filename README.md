@@ -1,10 +1,11 @@
 ### Data Science
 
-
 > Data products provide actionable information without exposing decision makers to the underlying data or analytics (e.g., buy/sell strategies for fnancial instruments, a set of actions to improve product yield, or steps to improve product marketing).
 
+ > Data Science is the art of turning data into actions. Tis is accomplished through the creation of data products, which provide actionable information without exposing decision makers to the underlying data or analytics (e.g., buy/sell strategies for fnancial instruments, a set of actions to improve product yield, or steps to improve product marketing). Performing Data Science requires the extraction of timely, actionable information from diverse data sources to drive data products. Examples of data products include answers to questions such as: “Which of my products should I advertise more heavily to increase proft? How can I improve my compliance program, while reducing costs? What manufacturing process change will allow me to build a better product?” Te key to answering these questions is: understand the data you have and what the data inductively tells you.
 
-A data product provides actionable information without exposing decision makers to the underlying data or analytics. 
+> A data product provides actionable information without exposing decision makers to the underlying data or analytics. 
+
 
 ##### Examples include: 
 
@@ -14,18 +15,31 @@ A data product provides actionable information without exposing decision makers 
 - Production Process Improvements 
 - Health Diagnosis
 - Flu Trend Predictions 
-- Targeted Advertising
+- Targeted Advertising 
+ 
+### Foundations 
+
+- See book by skienna 
+- see books by jhon hopkin's jeef leak
  
  
 #### Case Studies: 
- 
- > Data Science is the art of turning data into actions. Tis is accomplished through the creation of data products, which provide actionable information without exposing decision makers to the underlying data or analytics (e.g., buy/sell strategies for fnancial instruments, a set of actions to improve product yield, or steps to improve product marketing). Performing Data Science requires the extraction of timely, actionable information from diverse data sources to drive data products. Examples of data products include answers to questions such as: “Which of my products should I advertise more heavily to increase proft? How can I improve my compliance program, while reducing costs? What manufacturing process change will allow me to build a better product?” Te key to answering these questions is: understand the data you have and what the data inductively tells you.
 
-----------------------------------
-Information Retreival
-----------------------------------
+The goal of your analysis is to tell an actionable story. Following project illustrate this:
 
-Semantic Code Search by Github: https://towardsdatascience.com/semantic-code-search-3cd6d244a39c, https://github.com/github/codesearchnet
+- Predicting Spatial Risk of Opioid Overdoses in Providence, RI
+- Tidying and mapping Toronto open data
+- Where to live in the US
+- Text analysis of Trump's tweets confirms he writes only the (angrier) Android half
+
+Also see: https://www.opencasestudies.org
+
+#### Topics to know for interview: 
+
+Data Science Handbook 
+Cheetsheet 1.0:
+Cheetsheet 2.0:
+Machine Learning: 
 
 
 
@@ -96,6 +110,13 @@ AI and Healthcare
 - readings: https://mlhc19mit.github.io/
 - Deep Learning and Bio: https://github.com/gokceneraslan/awesome-deepbio 
 - Machine learning in genomic medicine: a review of computational problems and data sets. Leung et al. Proceedings of the IEEE, January 2016.
+
+----------------------------------
+Information Retreival
+----------------------------------
+
+Semantic Code Search by Github: https://towardsdatascience.com/semantic-code-search-3cd6d244a39c, https://github.com/github/codesearchnet
+
 
 ---------------------------------------
 ML in Software Engineering 
