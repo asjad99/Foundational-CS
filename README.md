@@ -7,23 +7,22 @@
 > A data product provides actionable information without exposing decision makers to the underlying data or analytics. 
 
 
-##### Examples include: 
-
-- Movie Recommendations 
-- Weather Forecasts 
-- Stock Market Predictions 
-- Production Process Improvements 
+Examples include: Movie Recommendations, Weather Forecasts, Stock Market Predictions, Production Process Improvements 
 - Health Diagnosis
 - Flu Trend Predictions 
 - Targeted Advertising 
- 
-### Foundations 
 
-- See book by skienna 
-- see books by jhon hopkin's jeef leak
+### The art of Formulating a  question/hypothesis: 
+
+- see field guide to Data Science 
+- PhD Training: Research Question 
+
+### Statistics: 
  
+- Data Visualization 
+-  
  
-#### Case Studies: 
+#### The Art of Story telling: Case Studies: 
 
 The goal of your analysis is to tell an actionable story. Following project illustrate this:
 
@@ -34,14 +33,17 @@ The goal of your analysis is to tell an actionable story. Following project illu
 
 Also see: https://www.opencasestudies.org
 
+### Books: 
+
+- See book by skienna 
+- see books by jhon hopkin's jeef leak
+
 #### Topics to know for interview: 
 
 Data Science Handbook 
 Cheetsheet 1.0:
 Cheetsheet 2.0:
 Machine Learning: 
-
-
 
 ----------------------------------
 Beautiful data
