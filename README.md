@@ -37,6 +37,7 @@ Also see: https://www.opencasestudies.org
 
 - See book by skienna 
 - see books by jhon hopkin's jeef leak
+- Best practices: http://jtleek.com/ads2020/week-1.html
 
 #### Topics to know for interview: 
 
