@@ -51,6 +51,12 @@ Beautiful data
 https://learning.oreilly.com/library/view/beautiful-data/9780596801656/ 
 
 
+
+People: 
+
+- https://twitter.com/hmason/following
+- 
+
 ----------------------------------
 Advanced Analytics in Spark
 ----------------------------------
