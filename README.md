@@ -155,3 +155,41 @@ https://arxiv.org/pdf/1812.00073.pdf
 
 
 ### AI Newsletters: 
+
+
+---
+
+----
+
+“We’re entering a new world in which data may be more important than software.”
+— Tim O’Reilly
+
+“You can best learn data mining and data science by doing, so start analyzing data as soon as you can! However, don’t forget to learn the theory, since you need a good statistical and machine learning foundation to understand what you are doing and to find real nuggets of value in the noise of big data.”
+
+“The best way to learn data science is to do data science.”
+— Chanin Nantasenamat
+
+Data Literacy: 
+
+“The era of Data Technology is here and it will surpass the Information Technology era. The DT era is about transparency, sharing of information and enabling others. Alibaba is excited about the possibilities of the DT era and how it can bring value to society.”
+— Jack Ma
+
+
+
+“Many believe that Big Data is over-hyped, but seeing the fantastic use cases popping up around the globe I would say Big Data is under-hyped! In the coming years, Big Data will revolutionize every industry unlike we have seen before!”
+
+
+
+“I like to think of data as the new soil, Get in and get your hands dirty.”
+— David McCandless
+
+“Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.”
+— Josh Wills
+
+“Despite an awful lot of marketing hype, big data are here to stay and big data analytics (i.e. data science and statistics) will remain aids to human thinking and not replacements for it!”
+— Diego Kuonen
+
+“For me, data science is a mix of three things: quantitative analysis (for the rigor necessary to understand your data), programming (so that you can process your data and act on your insights), and storytelling (to help others understand what the data means).”
+— Edwin Chen
+
+“A data scientist is someone who can obtain, scrub, explore, model, and interpret data, blending hacking, statistics, and machine learning. Data scientists not
