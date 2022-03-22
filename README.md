@@ -6,40 +6,18 @@
 
 > A data product provides actionable information without exposing decision makers to the underlying data or analytics. 
 
-
 Examples include: Movie Recommendations, Weather Forecasts, Stock Market Predictions, Production Process Improvements 
 - Health Diagnosis
 - Flu Trend Predictions 
 - Targeted Advertising 
 
 
-#Project ideas
-
- 
-#### The Art of Story telling: Case Studies 
-
-The goal of your analysis is to tell an actionable story. Following project illustrate this:
-
-- Predicting Spatial Risk of Opioid Overdoses in Providence, RI
-- Tidying and mapping Toronto open data
-- Where to live in the US
-- Text analysis of Trump's tweets confirms he writes only the (angrier) Android half
-
-Also see: https://www.opencasestudies.org
-
-
-----------------------------------
-Beautiful data
-----------------------------------
-
-https://learning.oreilly.com/library/view/beautiful-data/9780596801656/ 
-
+### Project ideas
 
 
 ----------------------------------
 Advanced Analytics in Spark
 ----------------------------------
-
 
 - Recommending Music and the Audioscrobbler Data Set
 - Predicting Forest Cover with Decision Trees
@@ -56,7 +34,6 @@ Advanced Analytics in Spark
 Fast Forward Labs
 ----------------------------------
 
-
 1. Structural Time Series
 2. Meta-Learning
 3. Automated Question Answering
@@ -70,19 +47,34 @@ Fast Forward Labs
 11. Probabilistic programming
 12. Summarization
 
-
 ----------------------------------
 Beautiful Data : 
 ----------------------------------
 
-Personal Data 
-Government and Urban Planning data 
-Analysing Housing data 
-DNA - Genomics Data Analysis 
-Analysing Political Data 
-Astronomy data - Image Processing on Mars 
-Photography meta-data analysis 
-Social Media data
+- Personal Data 
+- Government and Urban Planning data 
+- Analysing Housing data 
+- DNA - Genomics Data Analysis 
+- Analysing Political Data 
+- Astronomy data - Image Processing on Mars 
+- Photography meta-data analysis 
+- Social Media data
+
+
+https://learning.oreilly.com/library/view/beautiful-data/9780596801656/ 
+
+---------------------------------- 
+#### The Art of Story telling: Case Studies
+---------------------------------- 
+
+The goal of your analysis is to tell an actionable story. Following project illustrate this:
+
+- Predicting Spatial Risk of Opioid Overdoses in Providence, RI
+- Tidying and mapping Toronto open data
+- Where to live in the US
+- Text analysis of Trump's tweets confirms he writes only the (angrier) Android half
+
+Also see: https://www.opencasestudies.org
 
 
 ---------------------------------------
