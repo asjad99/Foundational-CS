@@ -12,17 +12,11 @@ Examples include: Movie Recommendations, Weather Forecasts, Stock Market Predict
 - Flu Trend Predictions 
 - Targeted Advertising 
 
-### The art of Formulating a  question/hypothesis: 
 
-- see field guide to Data Science 
-- PhD Training: Research Question 
+#Project ideas
 
-### Statistics: 
  
-- Data Visualization 
--  
- 
-#### The Art of Story telling: Case Studies: 
+#### The Art of Story telling: Case Studies 
 
 The goal of your analysis is to tell an actionable story. Following project illustrate this:
 
@@ -33,30 +27,14 @@ The goal of your analysis is to tell an actionable story. Following project illu
 
 Also see: https://www.opencasestudies.org
 
-### Books: 
-
-- See book by skienna 
-- see books by jhon hopkin's jeef leak
-- Best practices: http://jtleek.com/ads2020/week-1.html
-
-#### Topics to know for interview: 
-
-Data Science Handbook 
-Cheetsheet 1.0:
-Cheetsheet 2.0:
-Machine Learning: 
 
 ----------------------------------
 Beautiful data
 ----------------------------------
+
 https://learning.oreilly.com/library/view/beautiful-data/9780596801656/ 
 
 
-
-People: 
-
-- https://twitter.com/hmason/following
-- 
 
 ----------------------------------
 Advanced Analytics in Spark
@@ -72,7 +50,6 @@ Advanced Analytics in Spark
 - Analyzing Genomics Data and the BDG Project
 - Analyzing Neuroimaging Data with PySpark and Thunder
 - Estimating Financial Risk through Monte Carlo Simulation
-
 
 
 ----------------------------------
@@ -153,13 +130,9 @@ https://arxiv.org/pdf/1812.00073.pdf
     - https://homes.cs.washington.edu/~bornholt/post/synthesis-explained.html
 
 
+-----
 
-### AI Newsletters: 
 
-
----
-
-----
 
 “We’re entering a new world in which data may be more important than software.”
 — Tim O’Reilly
@@ -193,3 +166,9 @@ Data Literacy:
 — Edwin Chen
 
 “A data scientist is someone who can obtain, scrub, explore, model, and interpret data, blending hacking, statistics, and machine learning. Data scientists not
+
+
+
+- Best practices: http://jtleek.com/ads2020/week-1.html
+
+
