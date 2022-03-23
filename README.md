@@ -7,12 +7,10 @@
 > A data product provides actionable information without exposing decision makers to the underlying data or analytics. 
 
 Examples include: Movie Recommendations, Weather Forecasts, Stock Market Predictions, Production Process Improvements 
-- Health Diagnosis
-- Flu Trend Predictions 
-- Targeted Advertising 
 
 
-### Project ideas
+
+## Project ideas
 
 
 ----------------------------------
