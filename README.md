@@ -16,15 +16,16 @@ Examples include: Movie Recommendations, Weather Forecasts, Stock Market Predict
 #### One-off analysis 
 ---------------------------------- 
 
-The goal of your analysis is to tell an actionable story. Following project illustrate this:
+The goal of your analysis is to tell an actionable story. the output is a report, notebook or a presentation. Following project illustrate this:
 
 - Predicting Spatial Risk of Opioid Overdoses in Providence, RI
 - Tidying and mapping Toronto open data
 - Where to live in the US
 - Text analysis of Trump's tweets confirms he writes only the (angrier) Android half
 
-Also see: https://www.opencasestudies.org
+Also see: https://www.opencasestudies.org and academic papers
 
+Best practices: http://jtleek.com/ads2020/week-1.html
 
 ----------------------------------
 Advanced Analytics in Spark (classic)
@@ -159,7 +160,5 @@ Data Literacy:
 “A data scientist is someone who can obtain, scrub, explore, model, and interpret data, blending hacking, statistics, and machine learning. Data scientists not
 
 
-
-- Best practices: http://jtleek.com/ads2020/week-1.html
 
 
