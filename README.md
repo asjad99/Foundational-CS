@@ -10,11 +10,24 @@ Examples include: Movie Recommendations, Weather Forecasts, Stock Market Predict
 
 
 
-## Project ideas
+## Analytics Projects
+
+---------------------------------- 
+#### One-off analysis 
+---------------------------------- 
+
+The goal of your analysis is to tell an actionable story. Following project illustrate this:
+
+- Predicting Spatial Risk of Opioid Overdoses in Providence, RI
+- Tidying and mapping Toronto open data
+- Where to live in the US
+- Text analysis of Trump's tweets confirms he writes only the (angrier) Android half
+
+Also see: https://www.opencasestudies.org
 
 
 ----------------------------------
-Advanced Analytics in Spark
+Advanced Analytics in Spark (classic)
 ----------------------------------
 
 - Recommending Music and the Audioscrobbler Data Set
@@ -27,9 +40,25 @@ Advanced Analytics in Spark
 - Analyzing Neuroimaging Data with PySpark and Thunder
 - Estimating Financial Risk through Monte Carlo Simulation
 
+----------------------------------
+Beautiful Data : (classic)
+----------------------------------
+
+- Personal Data 
+- Government and Urban Planning data 
+- Analysing Housing data 
+- DNA - Genomics Data Analysis 
+- Analysing Political Data 
+- Astronomy data - Image Processing on Mars 
+- Photography meta-data analysis 
+- Social Media data
+
+
+https://learning.oreilly.com/library/view/beautiful-data/9780596801656/ 
+
 
 ----------------------------------
-Fast Forward Labs
+Fast Forward Labs (based on recent research)
 ----------------------------------
 
 1. Structural Time Series
@@ -45,35 +74,6 @@ Fast Forward Labs
 11. Probabilistic programming
 12. Summarization
 
-----------------------------------
-Beautiful Data : 
-----------------------------------
-
-- Personal Data 
-- Government and Urban Planning data 
-- Analysing Housing data 
-- DNA - Genomics Data Analysis 
-- Analysing Political Data 
-- Astronomy data - Image Processing on Mars 
-- Photography meta-data analysis 
-- Social Media data
-
-
-https://learning.oreilly.com/library/view/beautiful-data/9780596801656/ 
-
----------------------------------- 
-#### The Art of Story telling: Case Studies
----------------------------------- 
-
-The goal of your analysis is to tell an actionable story. Following project illustrate this:
-
-- Predicting Spatial Risk of Opioid Overdoses in Providence, RI
-- Tidying and mapping Toronto open data
-- Where to live in the US
-- Text analysis of Trump's tweets confirms he writes only the (angrier) Android half
-
-Also see: https://www.opencasestudies.org
-
 
 ---------------------------------------
 AI and Healthcare
@@ -88,10 +88,11 @@ AI and Healthcare
 - Machine learning in genomic medicine: a review of computational problems and data sets. Leung et al. Proceedings of the IEEE, January 2016.
 
 ----------------------------------
-Information Retreival
+Text Analytics 
 ----------------------------------
 
-Semantic Code Search by Github: https://towardsdatascience.com/semantic-code-search-3cd6d244a39c, https://github.com/github/codesearchnet
+1. NLP: https://paperswithcode.com/area/natural-language-processing
+2. Semantic Code Search by Github: https://towardsdatascience.com/semantic-code-search-3cd6d244a39c, https://github.com/github/codesearchnet
 
 
 ---------------------------------------
