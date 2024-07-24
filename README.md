@@ -6,7 +6,8 @@
 - Mining a Process Model from Event logs
 - Associative Rule mining
 - Collaborative Filtering
-- Clustering 
+- Clustering
+- PCA
 - Markov Chains and Markov Decision Processes
 - Decision Trees
 -  CNF-SAT
