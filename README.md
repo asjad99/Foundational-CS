@@ -160,5 +160,20 @@ Data Literacy:
 “A data scientist is someone who can obtain, scrub, explore, model, and interpret data, blending hacking, statistics, and machine learning. Data scientists not
 
 
+-----
 
+
+Fourier Analysis
+Graph theory
+Computational theory
+Coding theory
+Learning theory
+Sorting
+Streaming Algorithms
+Randomized Algorithms
+Lists and Sequences
+Geometry
+Hash Tables
+Graphs and Network Science
+Combinatorial Optimization
 
