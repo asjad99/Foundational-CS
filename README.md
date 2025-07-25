@@ -1,6 +1,6 @@
 
 ## General: 
-  - MIT Missing Semester
+  - MIT Missing Semester (Git etc.)
 
 ## Python
 
@@ -26,6 +26,13 @@
   - (SQL Mastery)[www.sqlmastery.com]
 
 
+## Cloud
+
+  - SQL In databricks
+  - Spark in Databricks 
+  - MLOPs in databricks
+  - Data Engineering in databricks
+  - Cloud Architecture 
 
 
 
