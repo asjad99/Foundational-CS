@@ -23,7 +23,7 @@
 ## SQL 
   - CS50
   - [SQL for data analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
-  - [SQL Mastery] www.sqlmastery.com
+  - (SQL Mastery)[www.sqlmastery.com]
 
 
 
