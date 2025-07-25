@@ -1,3 +1,44 @@
+
+## General: 
+  - MIT Missing Semester
+
+## Python
+
+**Beginner:**
+  - How to think like a CS
+  - CS50
+
+**Intermediate:**  
+  - MIT Intro to computational Data Science
+  - Hitchhiker's Guide to CS
+  - Project: Information Retrieval 
+
+**Advanced:**  
+  - Stanford Algorithms
+  - Stanford CS168
+  - Stanford data mining
+  - Project: Databases 
+
+## SQL 
+  - CS50
+  - [SQL for data analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+  - [SQL Mastery] www.sqlmastery.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### List of Notebooks
 
 Set of notebooks that explore advanced algorithmic techniques and collectively serve as a Computational intellgience Toolbox for building Data+AI Products
