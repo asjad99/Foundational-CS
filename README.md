@@ -6,21 +6,26 @@
 
 **Beginner:**
   - [How to think like a CS](https://runestone.academy/ns/books/published/thinkcspy/index.html)
-  - CS50
+  - Harvard CS50
   - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
-**Intermediate:**  
+## Intermediate: 
   - MIT Intro to computational Data Science
   - Hitchhiker's Guide to CS
   - [Hackers and Painters](https://www.amazon.com.au/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
-  - Project: Information Retrieval 
+  - Project: Information Retrieval, Conway game of life 
 
-**Advanced:**  
+**Algorithms:**  
   - Stanford Algorithms
-  - Advanced Algorithms 
+  - Graduate Algorithms 
+
+## Advanced: 
+  - Nand2Tetris
   - Stanford CS168
   - Stanford data mining
   - Project: Databases 
+
+
 
 ## SQL 
   - CS50
