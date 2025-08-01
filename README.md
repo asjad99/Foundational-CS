@@ -12,6 +12,7 @@
 **Intermediate:**  
   - MIT Intro to computational Data Science
   - Hitchhiker's Guide to CS
+  - [Hackers and Painters](https://www.amazon.com.au/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
   - Project: Information Retrieval 
 
 **Advanced:**  
