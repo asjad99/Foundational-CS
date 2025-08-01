@@ -30,6 +30,7 @@
 
   - [becoming a maker](http://www.catb.org/esr/faqs/hacker-howto.html)
   - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+  - [John Carmack Graduation Speech]()
   - [Hackers and Painters](https://www.amazon.com.au/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
   - Hitchhiker's Guide to Python
   - [Jessica Mackellar on breaking the rules](https://youtu.be/9UnMZYMaosw) 
@@ -38,6 +39,30 @@
   - https://designingyour.life/the-book/
   - https://www.hackster.io/vilaksh01/new-era-farming-with-tensorflow-on-lowest-power-consumption-f8f9f6
   - [State of AI](https://www.stateof.ai/) 
+
+
+## Books
+
+
+The Innovators: How a Group of Inventors, Hackers, Geniuses and Geeks Created the Digital Revolution by Walter Isaacson.
+ Hackers: Heroes of the Computer Revolution
+  Coders at Work
+  Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age,
+  Masters of Doom. Great book about John Carmack and id software.
+Founders at Work: Stories of Startups' Early Days
+What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry
+'Apollo: Race to the Moon' by Murray and Cox, and 'The Making of The Atomic Bomb', Rhodes
+"The Open Organization”
+Masterminds of Programming: Conversations with the Creators of Major Programming Languages
+"The Idea Factory: Bell Labs and the Great Age of American Innovation”
+Where Wizards Stay Up Late: The Origins Of The Internet
+Fire in the Valley: The Making of the Personal Computer -
+"Barbarians Led by Bill Gates,”
+"Dreaming in Code,”
+The Pixar Touch 
+Creativity, Inc.
+Your Money or Your Life
+
 
 ## ML In Programming (pre-chatgpt)
 
