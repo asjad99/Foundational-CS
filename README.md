@@ -7,16 +7,13 @@
 ### Beginner:
   - [How to think like a CS](https://runestone.academy/ns/books/published/thinkcspy/index.html)
   - Harvard CS50
-  - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 ### Intermediate: 
   - MIT Intro to computational Data Science
-  - Hitchhiker's Guide to CS
-  - [Hackers and Painters](https://www.amazon.com.au/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
   - [SCIP]()
+  - [SQL for data analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+  - (SQL Mastery)[www.sqlmastery.com]
   - Project: Information Retrieval, Conway game of life 
-
-**Algorithms:**  
   - Stanford Algorithms
   - Graduate Algorithms 
 
@@ -29,15 +26,18 @@
   - Stanford data mining
   - Project: Databases 
 
+## Readings: 
 
 
-## SQL 
-  - CS50
-  - [SQL for data analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
-  - (SQL Mastery)[www.sqlmastery.com]
+  - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+  - [Hackers and Painters](https://www.amazon.com.au/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
+  - Hitchhiker's Guide to Python
 
 
-## Cloud
+
+
+
+## Cloud and Databricks
 
   - SQL In databricks
   - Spark in Databricks 
