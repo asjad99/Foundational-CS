@@ -5,8 +5,9 @@
 ## Python
 
 **Beginner:**
-  - How to think like a CS
+  - [How to think like a CS](https://runestone.academy/ns/books/published/thinkcspy/index.html)
   - CS50
+  - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 **Intermediate:**  
   - MIT Intro to computational Data Science
