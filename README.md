@@ -4,7 +4,7 @@
 
 ## Python
 
-### Beginner:**
+### Beginner:
   - [How to think like a CS](https://runestone.academy/ns/books/published/thinkcspy/index.html)
   - Harvard CS50
   - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
