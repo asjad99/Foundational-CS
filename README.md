@@ -4,15 +4,16 @@
 
 ## Python
 
-**Beginner:**
+### Beginner:**
   - [How to think like a CS](https://runestone.academy/ns/books/published/thinkcspy/index.html)
   - Harvard CS50
   - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
-## Intermediate: 
+### Intermediate: 
   - MIT Intro to computational Data Science
   - Hitchhiker's Guide to CS
   - [Hackers and Painters](https://www.amazon.com.au/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
+  - [SCIP]()
   - Project: Information Retrieval, Conway game of life 
 
 **Algorithms:**  
@@ -20,7 +21,10 @@
   - Graduate Algorithms 
 
 ## Advanced: 
-  - Nand2Tetris
+  - Nand2Tetris Coursera 
+  - Programming langaugages Coursera
+  - System Design by Peter Norvig
+  - [MIT System Design](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/)
   - Stanford CS168
   - Stanford data mining
   - Project: Databases 
