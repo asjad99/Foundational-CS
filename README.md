@@ -28,12 +28,31 @@
 
 ## Readings: 
 
-
+  - [becoming a maker](http://www.catb.org/esr/faqs/hacker-howto.html)
   - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
   - [Hackers and Painters](https://www.amazon.com.au/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
   - Hitchhiker's Guide to Python
+  - [Jessica Mackellar on breaking the rules](https://youtu.be/9UnMZYMaosw) 
+  - [Mental Models](https://www.fs.blog/mental-models/)
+  - https://blog.codinghorror.com/how-to-stop-sucking-and-be-awesome-instead/
+  - https://designingyour.life/the-book/
+  - https://www.hackster.io/vilaksh01/new-era-farming-with-tensorflow-on-lowest-power-consumption-f8f9f6
+  - [State of AI](https://www.stateof.ai/) 
+
+## ML In Programming (pre-chatgpt)
 
 
+Using AI to create tools for programmers 
+
+
+1. The Case for Learned Index Structures 
+2. https://research.fb.com/wp-content/uploads/2020/09/Machine-Learning-in-Compilers-Past-Present-and-Future.pdf
+3. Semantic Code Search by Github: https://towardsdatascience.com/semantic-code-search-3cd6d244a39c
+4. Automatic Recommendation of Pythonic Idiom Usage - https://youtu.be/vOCQReSvBxA
+5. Using machine learning for code recommendation : https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/
+6. Deep learning to translate between programming languages https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/
+7. More broadly, AI has the potential to help with other programming tasks. For example, Facebook AI has previously shared Neural Code Search, a method for using natural language in queries about code, and Getafix, a tool that learns to automatically suggest fixes for coding bugs. 
+8. Introducing TF-Coder, a tool that writes tricky TensorFlow expressions for you!
 
 
 
