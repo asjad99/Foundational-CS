@@ -1,32 +1,41 @@
 
-## General: 
-  - MIT Missing Semester (Git etc.)
+## General Misc. Tech skills: 
+  - [MIT Missing Semester](https://missing.csail.mit.edu/)
+  - [SQL for data analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+  - [SQL Mastery](www.sqlmastery.com)
 
-## Python
+## Programming
 
 ### Beginner:
   - [How to think like a CS](https://runestone.academy/ns/books/published/thinkcspy/index.html)
-  - Harvard CS50
-
+  - [Harvard CS50](https://www.edx.org/cs50)
+  - [how to design programs](https://htdp.org/2024-11-6/Book/index.html)
+  - [Data Centric Introduction to computing](https://dcic-world.org/2025-02-09/index.html)
+  - [Gregor Kiczales MOOC](https://share.google/0bvG1q4xZ91E6ewdK) 
+    
 ### Intermediate: 
-  - MIT Intro to computational Data Science
-  - [SCIP]()
-  - [SQL for data analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
-  - (SQL Mastery)[www.sqlmastery.com]
-  - Project: Information Retrieval, Conway game of life 
-  - Stanford Algorithms
-  - Graduate Algorithms 
+
+  - [MIT Intro to computational thinking and Data Science](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science)
+  - [Hitch Hiker Guide to Python](https://docs.python-guide.org/)
+  - [SCIP](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+  - [Stanford Algorithms](https://www.coursera.org/specializations/algorithms)
+  - [Graduate Algorithms Udacity](https://www.mooc-list.com/course/introduction-graduate-algorithms-udacity)
+  - Recommended Projects: Build a search engine, Conway game of life 
+
 
 ## Advanced: 
-  - Nand2Tetris Coursera 
-  - Programming langaugages Coursera
-  - System Design by Peter Norvig
+  - [Nand2Tetris Coursera](https://www.coursera.org/learn/build-a-computer)
+  - John ousterhouts philosophy of software design 
+  - [David Beazley](https://www.dabeaz.com/index.html) 
+  - [Programming langaugages Coursera](https://www.coursera.org/learn/programming-languages)
+  - [System Design by Peter Norvig](https://www.udacity.com/course/design-of-computer-programs--cs212)
   - [MIT System Design](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/)
   - Stanford CS168
   - Stanford data mining
-  - Project: Databases 
+  - Project: Databases
 
-## Readings: 
+
+## Good Articles: 
 
   - [becoming a maker](http://www.catb.org/esr/faqs/hacker-howto.html)
   - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
@@ -41,7 +50,7 @@
   - [State of AI](https://www.stateof.ai/) 
 
 
-## Books
+## General Books 
 
 
 The Innovators: How a Group of Inventors, Hackers, Geniuses and Geeks Created the Digital Revolution by Walter Isaacson.
@@ -61,10 +70,9 @@ Fire in the Valley: The Making of the Personal Computer -
 "Dreaming in Code,”
 The Pixar Touch 
 Creativity, Inc.
-Your Money or Your Life
 
 
-## ML In Programming (pre-chatgpt)
+## ML Influence Programming (pre-chatgpt so outdated)
 
 
 Using AI to create tools for programmers 
@@ -91,19 +99,4 @@ Using AI to create tools for programmers
 
 
 
-**Advanced Algorithms:**
 
-We explore advanced algorithmic techniques and collectively serve as a Computational intellgience Toolbox for building Data+AI Products
-
-
-- [Singular Value Decomposition - Linear Algebra](https://deepnote.com/workspace/asjad-khan-45d09615-16dc-47bb-b021-7d00e7701c90/project/Data-Science-21f3aa5a-221b-4d82-bbc1-156829d4882c/notebook/8f715cd7b4534c679466cf978255d5da)
-- The Latent Dirichlet Allocation Model for Topic Modeling
-- Mining a Process Model from Event logs
-- Associative Rule mining
-- Collaborative Filtering
-- Clustering
-- PCA
-- Markov Chains and Markov Decision Processes
-- Decision Trees
--  CNF-SAT
--  Compression 
