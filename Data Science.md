@@ -192,4 +192,13 @@ We explore advanced algorithmic techniques and collectively serve as a Computati
 - Markov Chains and Markov Decision Processes
 - Decision Trees
 -  CNF-SAT
--  Compression 
+-  Compression
+
+## Analytics in Cloud and Databricks
+
+  - SQL In databricks
+  - Spark in Databricks 
+  - MLOPs in databricks
+  - Data Engineering in databricks
+  - Cloud Architecture 
+
