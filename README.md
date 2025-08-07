@@ -50,26 +50,27 @@
   - [State of AI](https://www.stateof.ai/) 
 
 
-## General Books 
+## General Books (need to update and curate)
 
+Stories from CS history and pop culture 
 
-The Innovators: How a Group of Inventors, Hackers, Geniuses and Geeks Created the Digital Revolution by Walter Isaacson.
- Hackers: Heroes of the Computer Revolution
-  Coders at Work
-  Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age,
-  Masters of Doom. Great book about John Carmack and id software.
-Founders at Work: Stories of Startups' Early Days
-What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry
-'Apollo: Race to the Moon' by Murray and Cox, and 'The Making of The Atomic Bomb', Rhodes
-"The Open Organization”
-Masterminds of Programming: Conversations with the Creators of Major Programming Languages
-"The Idea Factory: Bell Labs and the Great Age of American Innovation”
-Where Wizards Stay Up Late: The Origins Of The Internet
-Fire in the Valley: The Making of the Personal Computer -
-"Barbarians Led by Bill Gates,”
-"Dreaming in Code,”
-The Pixar Touch 
-Creativity, Inc.
+- The Innovators: How a Group of Inventors, Hackers, Geniuses and Geeks Created the Digital Revolution by Walter Isaacson.
+- Hackers: Heroes of the Computer Revolution
+- Coders at Work
+- Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age,
+- Masters of Doom. Great book about John Carmack and id software.
+- Founders at Work: Stories of Startups' Early Days
+- What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry
+- 'Apollo: Race to the Moon' by Murray and Cox, and 'The Making of The Atomic Bomb', Rhodes
+- "The Open Organization”
+- Masterminds of Programming: Conversations with the Creators of Major Programming Languages
+- "The Idea Factory: Bell Labs and the Great Age of American Innovation”
+- Where Wizards Stay Up Late: The Origins Of The Internet
+- Fire in the Valley: The Making of the Personal Computer -
+- "Barbarians Led by Bill Gates,”
+- "Dreaming in Code,”
+- The Pixar Touch 
+- Creativity, Inc.
 
 
 ## ML Influence Programming (pre-chatgpt so outdated)
@@ -89,13 +90,6 @@ Using AI to create tools for programmers
 
 
 
-## Cloud and Databricks
-
-  - SQL In databricks
-  - Spark in Databricks 
-  - MLOPs in databricks
-  - Data Engineering in databricks
-  - Cloud Architecture 
 
 
 
