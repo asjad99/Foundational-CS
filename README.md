@@ -11,15 +11,18 @@
   - [Harvard CS50](https://www.edx.org/cs50)
   - [how to design programs](https://htdp.org/2024-11-6/Book/index.html)
   - [Data Centric Introduction to computing](https://dcic-world.org/2025-02-09/index.html)
-  - [Gregor Kiczales MOOC](https://share.google/0bvG1q4xZ91E6ewdK) 
+  - [Gregor Kiczales MOOC](https://share.google/0bvG1q4xZ91E6ewdK)
+  - [MIT Intro to computational thinking and Data Science](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science)
     
 ### Intermediate: 
 
-  - [MIT Intro to computational thinking and Data Science](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science)
   - [Hitch Hiker Guide to Python](https://docs.python-guide.org/)
   - [SCIP](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
   - [Stanford Algorithms](https://www.coursera.org/specializations/algorithms)
   - [Graduate Algorithms Udacity](https://www.mooc-list.com/course/introduction-graduate-algorithms-udacity)
+  - [Introduction to information retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+  - [Neural networks from scratch](https://karpathy.ai/zero-to-hero.html)
+
   - Recommended Projects: Build a search engine, Conway game of life 
 
 
@@ -30,9 +33,9 @@
   - [Programming langaugages Coursera](https://www.coursera.org/learn/programming-languages)
   - [System Design by Peter Norvig](https://www.udacity.com/course/design-of-computer-programs--cs212)
   - [MIT System Design](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/)
-  - Stanford CS168
-  - Stanford data mining
-  - Project: Databases
+  - [Stanford CS168](https://web.stanford.edu/class/cs168/)
+  - Stanford mining massive datasets
+  - Project: Build a Database system 
 
 
 ## Good Articles: 
@@ -73,7 +76,7 @@ Stories from CS history and pop culture
 - Creativity, Inc.
 
 
-## ML Influence Programming (pre-chatgpt so outdated)
+## AI/ML Influence on Programming (pre-chatgpt so outdated)
 
 
 Using AI to create tools for programmers 
